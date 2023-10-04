@@ -1,4 +1,5 @@
 # Ülesanne 3
+## Kasutatud keel: Python 3.10
 
 Esimese sammuna tuleb teha tingimus, et n ei oleks mittenegatiivne arv ehk väiksem või võrdne kui 0.
 Fibonacii number arvutatakse rekursiooniga, kus n (juhul kui ta on suurem kui 1) arvutab fibonacci n-nda numbri.
