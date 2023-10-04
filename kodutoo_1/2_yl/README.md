@@ -1,4 +1,5 @@
 # LIFO dokumentatsioon
+## Kasutatud keel: Python 3.10
 
 ## Selgitus
 
