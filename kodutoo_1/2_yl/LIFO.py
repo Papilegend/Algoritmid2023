@@ -1,5 +1,4 @@
 #LIFO andmestruktuur
-import random
 
 taldrikud = ["taldrik_must", "taldrik_valge", "taldrik_sinine", "taldrik_punane"]
 
