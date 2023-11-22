@@ -1,3 +1,3 @@
 # Kodutöö 3  
 
-## Otsinugalgoritmid
+## Otsingualgoritmid
