@@ -25,4 +25,4 @@ Jump Search'i ajaline kompleksus oma hüppamise tõttu on O(sqrt(n)). Võrreldes
 
 ### Stsenaarium (Kus võib olla Jump Search efektiivsem võrreldes Linear Search'i ja Binary Search'iga)
 
-Jump Search võib olla efeketiivsem kui Linear ja Binary Search kui andmed on sorteeritud ning andmestruktuur on koostatud Linked Listi järgi.
+Jump Search võib olla efeketiivsem kui Linear ja Binary Search, kui andmed on sorteeritud ning andmestruktuur on koostatud Linked Listi järgi.
