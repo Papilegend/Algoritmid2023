@@ -20,7 +20,7 @@ Ternary Search ehk kolmikotsing on algoritm sorteeritud massivi puhul, mis jagab
 
 ### Ternary Search vs Binary Search ajakompleksus
 
-Mõlema otsingualgoritmi keskmine ajakompleksus on O(log n). Ternary Search võib mingil juhul, kolmeks osaks jagamise tõttu, olla kiirem.
+Mõlema otsingualgoritmi keskmine ajakompleksus on O(log n). Ternary Search võib mõnel juhul, kolmeks osaks jagamise pärast, olla efektiivsem
 
 ### Ternary vs Binary Search tõhusus
 
