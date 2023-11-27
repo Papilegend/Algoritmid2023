@@ -5,7 +5,7 @@
 ### Binaarotsing vs lineaarotsing ajakompleksus
 
 - Binaarotsingu puhul ajakompleksus kasvab massiivi kaheks jagamise abil logaritmiliselt - O(logN)
-- Lineaarotsingu puhul ajakompleksus kasvab lineaarselt elementide kasvamisega korrelatsioonis -  O(logN)
+- Lineaarotsingu puhul ajakompleksus kasvab lineaarselt elementide kasvamisega korrelatsioonis -  O(n)
 
 #### Võrdlus
 
