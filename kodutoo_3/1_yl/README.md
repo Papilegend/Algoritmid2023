@@ -16,6 +16,6 @@
 ### Rakendamine reaalmaailmas
 
 Lineaarotsingut on mõtekas reaalmaailmas kasutada väikeste andmemahtude korral, 
-sest suuremate andmemahtudega muutub lineaarotsing ebaefektiivseks, peamiselt lineaarselt elementide läbivaatamise tõttu. Samuti on seda mõtekas kasutada sorteerimata andmemahtude puhul sest sorteeritud andmemahtude jaoks on juba paremad otsingualgoritmid, nagu näiteks binaarotsing.
+sest suuremate andmemahtudega muutub lineaarotsing, peamiselt lineaarselt elementide läbivaatamise tõttu, ebaefektiivseks. Samuti on seda mõtekas kasutada sorteerimata andmemahtude puhul, sest sorteeritud andmemahtude jaoks on juba paremad otsingualgoritmid, nagu näiteks binaarotsing.
 
 
