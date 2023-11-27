@@ -14,7 +14,7 @@ Jump search on otsingualgoritm, mis kombineerib sorteeritud masiivis hüppamist 
 4. While loop, mille tingimus on, et leitud element on väiksem kui otsitav element
 5. Kontrollib, kas esimene element massiivis on otsitav
 6. Hüppab paika pandud hüppamisvahemiku järgi massiivis edasi
-7. Kontrollib, kas leitud elemen on suurem kui otsitav element
+7. Kontrollib, kas leitud element on suurem kui otsitav element
 8. Kui on, siis kasutab lineaarotsingut eelmises blokis
 9. Kui otsitavat elementi ei leidnud peale lineaarotsingut, siis element puudub selles sorteeritud massiivis
 10. Lõpp
