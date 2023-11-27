@@ -11,7 +11,7 @@
 
 #### Ruumikompleksus
 
-- O(1): Algoritmile ei lisanud teist andmestruktuuri, kui sisend kasvab.
+- O(1): Algoritmile ei lisandu teist andmestruktuuri, kui sisend kasvab.
 
 ### Rakendamine reaalmaailmas
 
