@@ -1,4 +1,4 @@
-# index map listi kujuna, kus indeks + 1 näitab, kes mitmendal postitsioonil järjekorras asub
+# index mapping listi kujuna, kus indeks + 1 näitab, kes mitmendal postitsioonil järjekorras asub
 
 prioriteedi_jarjekord = ["Kalle", "Mait" "Jaanus", "Hans", "Peeter", "Karl", "Guido", "Peep", "Eigo"]
 
