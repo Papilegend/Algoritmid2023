@@ -4,7 +4,7 @@
 
 ### Minu rakenduse aja- ja ruumikompleksus
 
-Ajakompleksus on O(n), sest kood käib läbi sama protsessi kuni ta leiab teatud nimele vastava indeksi ja ajakompleksus sõltub sellest, kui palju on elemente n listis. Ruumikompleksus on O(1), sest kõik andmestruktuurid on kindla pikkusega ning ei muutu programmi käivitamisel.
+Ajakompleksus on O(n), sest kood käib läbi sama protsessi kuni ta leiab teatud nimele vastava indeksi, ja ajakompleksus sõltub sellest, kui palju on elemente n listis. Ruumikompleksus on O(1), sest kõik andmestruktuurid on kindla pikkusega ning ei muutu programmi käivitamisel.
 
 ### Indeksi kaardistamine rakendamine massiividega reaalses maailmas 
 
