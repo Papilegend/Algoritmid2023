@@ -4,4 +4,14 @@
 
 ### Rakenduse aja- ja ruumikompleksuse analüüs 
 
-### Topelt räsimise kõige efektiivsem stsenaarium 
+#### Ajakompleksus
+
+Keskmisel juhul on ajakompleksus O(1), kui algoritm hoiab ära kokkupõrkeid. Halvimal juhul on O(n).
+
+#### Ruumikompleksus
+
+Ruumikompleksus on O(n), kus n on elementide ar räsitabelis.
+
+### Topelt räsimise eriti efektiivne stsenaarium 
+
+Salasõnade topelt räsimine, et kaitsta küberrünnakute eest.
