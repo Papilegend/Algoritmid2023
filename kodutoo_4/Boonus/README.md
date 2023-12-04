@@ -8,4 +8,6 @@ Koormustegur = Elementide arv / kohtade arv
 
 See on oluline, sest see määrab ära, kui efektiivne räsitabel on. Mida suurem on koormustegur, seda ssuurem oht on kokkupõrgeteks. Koormustegur näitab algoritmile, mis muutusi, nt kasutada linked liste, tuleb teha, et kokkupõrkeid vältida.
 
+## Rehashingu mõju räsitabeli jõudlusele 
 
+Rehashing aitab hoida räsitabeli koormustegurit normaalsuse piires ja sellega säilitada optimaalset jõudlust ja kiirust. 
