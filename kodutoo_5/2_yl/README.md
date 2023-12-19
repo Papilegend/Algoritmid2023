@@ -29,3 +29,13 @@ Mõlemal kuhjal on otsimise ajakompleksus O(1), sest otsimise puhul peab algorit
 ### Ruumikompleksus
 
 Ruumikompleksus on O(n), kus n on kuhjas olevate elementide arv. 
+
+## Kuhja struktuuri sobivus andmete sorteerimiseks ja prioriteetjärjekordade haldamiseks
+
+### Andmete sorteerimine 
+
+Kuhjade puhul saab kasutada heap sorti, mis loob max-kuhja, mille ta sordib heapify meetodi abil, mida kuhi kasutab ka, kui kuhja on lisatud uus element.
+
+### Prioriteedijärekordade haldamine 
+
+Tänu oma kiirele aja- ja ruumikompleksusele on kuhjades efektiivne hallata prioriteedijärjekordi, mis on suured. 
