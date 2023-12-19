@@ -31,7 +31,7 @@ class tipp:
                     self.vasak.sisesta(nimi, vanus)
             elif vanus > self.vanus:
 
-    # Kui vasakpoolset elementi pole, siis lisa element paremale
+    # Kui parempoolset elementi pole, siis lisa element paremale
                 
                 if self.parem is None:
                     self.parem = tipp(nimi, vanus)
@@ -44,7 +44,7 @@ def printimine(tuvi):
     if tuvi is None:
         return
     else:
-        print(f"Ametinimetus: {tuvi.nimi}")  # Modify print statement to display name and age
+        print(f"Ametinimetus: {tuvi.nimi}") 
         printimine(tuvi.vasak)
         printimine(tuvi.parem)
 
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     # Teen binary tree tüveks tegevjuhi ameti
     tuvi = tipp("Tegevjuht", 30)  
 
-    # Lisan tegejuhile ametivanuste abil juurde teised ametid
+    # Lisan tegevjuhile ametivanuste abil juurde teised ametid
     tuvi.sisesta("Produktsioonijuht", 25)  
     tuvi.sisesta("Turundusjuht", 35)
     tuvi.sisesta("Tööde juhataja", 22)
