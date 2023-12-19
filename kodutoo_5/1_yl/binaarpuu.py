@@ -20,23 +20,25 @@ class tipp:
 
     # Kui binary trees on tüveelement olemas, siis võrdle, kas see on suurem või väiksem tüveelemendist
         else:
+            
+    # Kui sisestatav sõlm on väiksem vaadeldavast sõlmest 
             if vanus < self.vanus:
 
-    # Kui vasakpoolset elementi pole, siis lisa see vasakule
+    # Kui vasakpoolset sõlme pole, siis lisa see vasakule
                 if self.vasak is None:
                     self.vasak = tipp(nimi, vanus)
 
-    # Kui vasakpoolne element on olemas, siis korda protsessi võttes olemasolev vasak element vaadeldavaks tüveks
+    # Kui vasakpoolne sõlm on olemas, siis korda protsessi võttes olemasolev vasak sõlm vaadeldavaks tüveks
                 else:
                     self.vasak.sisesta(nimi, vanus)
             elif vanus > self.vanus:
 
-    # Kui parempoolset elementi pole, siis lisa element paremale
+    # Kui parempoolset sõlm pole, siis lisa sõlm paremale
                 
                 if self.parem is None:
                     self.parem = tipp(nimi, vanus)
 
-     # Kui vasakpoolne element on olemas, siis korda protsessi võttes olemasolev vasak element vaadeldavaks tüveks
+     # Kui vasakpoolne sõlm on olemas, siis korda protsessi võttes olemasolev vasak sõlm vaadeldavaks tüveks
                 else:
                     self.parem.sisesta(nimi, vanus)
 
