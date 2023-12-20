@@ -19,7 +19,7 @@ Tüvest vasakule jäävad elemendid on alati väiksemad kui tüvi ja tüvest par
 
 See mõjutab ajakeerukust, sest BST kasutab otsimisel, kustutamisel ja lisamisel puu pikkust efektiivsuse säilitamiseks, aga kui puu on tasakaalustamata, siis see muutub pigem juba linked listiks ning vajab pea kõikide toimingute tegemiseks terve puu läbi töötlema.
 
-### Optimeerimine 
+#### Optimeerimine 
 
 - Rotateerumine - aitab puul teatud tehnikatega tasakaalu saavutada.
 - Puude kasutamine, mis tasakaalustavad ennast ise nagu Punane-Must puud ja AVL puud.
