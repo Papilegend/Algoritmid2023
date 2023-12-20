@@ -1,4 +1,4 @@
-# Ülesanne 1
+# Ülesanne 2
 
 ## Min-kuhja ja max-kuhja teoreetilised omadused
 
