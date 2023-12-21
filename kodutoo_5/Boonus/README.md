@@ -17,5 +17,9 @@
 - Vasak roatsioon - Kui tasakaalutegur on suurem kui 1 ehk puu on paremale poole kaldu, siis vaadeldava sõlme parem laps saab alampuu tüveks. Vasakpoolne puu osa läheb pikemaks ja parempoolne puu osa läheb lühemaks. 
 - Parem rotatsioon - Kui tasakaalutegur on väiksem kui -1 ehk puu on vasakule poole kaldu, siis vaadledava sõlme vasak laps saab alampuu tüveks. Vasakpoolne puu osa läheb lühemaks ja parempoolne puu osa läheb pikemaks.
 
+#### Kahene rotatsioon 
 
+- Vasak-parem rotatsioon - Kui tasakaalutegur on suurem kui 1, kui vaadeldava sõlme vasaku alampuu paremale lapsele lisati sõlm
+- Parem-vasak rotatsioon - Kui tasakaalutegur on väiksem kui -1, kui vaadeldava sõlme parema alampuu vasakule lapsele lisati sõlm 
 
+*Kahekordseid rotatasioone on raske mõista teoreetilisel tasandil, sest neid kasutatakse kompleksemates, kus on mängus juba mitu alampuud*
