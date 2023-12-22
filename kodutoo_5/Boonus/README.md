@@ -22,4 +22,14 @@
 - Vasak-parem rotatsioon - Kui tasakaalutegur on suurem kui 1, kui vaadeldava sõlme vasaku alampuu paremale lapsele lisati sõlm
 - Parem-vasak rotatsioon - Kui tasakaalutegur on väiksem kui -1, kui vaadeldava sõlme parema alampuu vasakule lapsele lisati sõlm 
 
-*Kahekordseid rotatasioone on raske mõista teoreetilisel tasandil, sest neid kasutatakse kompleksemates, kus on mängus juba mitu alampuud*
+*Kahekordseid rotatasioone on raske mõista teoreetilisel tasandil, sest neid kasutatakse kompleksemates olukordades, kus on mängus juba mitu alampuud*
+
+### Splay puud 
+
+- zig (vasak või parem rotatsioon) - Kui vaadeldav element on vasak või parem elemenn, millel pole vanavanemat.
+- zig-zig (mitu korda vasak või parem rotatsioon) - Kui vaadeldav element on ühel joonel oma vanema ja teiste eelkäijatega ühel joonel.
+- zig-zag (vasak/parem ja parem/vasak rotatsioon) - Kui vaadeldav element on vasak või parem laps ning ta vanem on parem või vasak laps.
+
+*Splay puul pole eesmärk olla tasakaalus, vaid tuua peale sisestamist, kustutamist või otsismist teatud element tüveks. Näiteks, kui otsitavat elementi ei leita, siis puu viib kõige saranasema elemendi otsitavale elemendile puu tüveks.*
+
+###
