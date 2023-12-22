@@ -41,5 +41,23 @@
 *B-tree ei püüa säilitada traditsioonilist tasakaalus olekut ning ei ole ka binaar otsingupuu tüüp*
 
 
+## Nende puude jõudluse optimeermine erinevates rakendustes
+
+### Punane-must binaarotsingu puu
+
+Kasutatakse oma logaritmilise ajakompleksuse abil programmeerimiskeelte kompilaatorites, operatsioonisüsteemides, faili süsteemides, masinõppes jne. Punase-musta puu pikkuse tasakaalu ning logaritmilise ajakompleksuse tõttu on see stabiilne ja kindel tööriist.
+
+### AVL puu
+
+Kasutatakse sarnaselt punase-musta puudele andmebaasides, sest samamoodi on AVL puudel logaritmiline kompleksus ning suudab iseennast tasakaalustada, aga varasemalt õpitust teeb AVL puu vahepeal üleliigseid rotatsioone, et ennast tasakaalu viia, ning sellepärast on punane-must binaarotsingu puu populaarsem. 
+
+### Splay puu
+
+Leiab kasutust andmebaasi rakendustes, kus teatud elemendid peavad olema konstanselt kättesaadavad. Splay puu suudab tihti otsitud elemente hoida juurele lähedal, mis vähendab otsinguaega ja parandab sellega jõudlust. 
+
+### B-tree 
+
+Kasutatakse faili süsteemides, andmebaasides, kus B-tree suudab vähendada puu pikkust/sügavust pannes andmed ühte sõlme. 
+
 
 
