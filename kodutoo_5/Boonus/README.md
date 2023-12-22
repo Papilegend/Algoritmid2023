@@ -33,3 +33,13 @@
 *Splay puul pole eesmärk olla tasakaalus, vaid tuua peale sisestamist, kustutamist või otsismist teatud element tüveks. Näiteks, kui otsitavat elementi ei leita, siis puu viib kõige saranasema elemendi otsitavale elemendile puu tüveks.*
 
 ### B-tree
+
+- Poolestamine - Kui sõlme suurus läheb lubatust suuremaks, siis sõlm tehakse kaheks sõlmeks
+- Liimimine - Kui kustutamise tõttu on kahel sõlmel lubatust väiksem suurus, siis need pannakse kokku
+- Jagamine - Kui kustutamise tõttu on ühel sõlmel lubatust väiksem suurus, aga ühel sõlmel lubatud suurus, siis lubatud suurusega sõlm annab mingi koguse võtmeid teisele sõlmele
+
+*B-tree ei püüa säilitada traditsioonilist tasakaalus olekut ning ei ole ka binaar otsingupuu tüüp*
+
+
+
+
