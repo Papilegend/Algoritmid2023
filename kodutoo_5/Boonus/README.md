@@ -22,7 +22,7 @@
 - Vasak-parem rotatsioon - Kui tasakaalutegur on suurem kui 1, kui vaadeldava sõlme vasaku alampuu paremale lapsele lisati sõlm
 - Parem-vasak rotatsioon - Kui tasakaalutegur on väiksem kui -1, kui vaadeldava sõlme parema alampuu vasakule lapsele lisati sõlm 
 
-*Kahekordseid rotatasioone on raske mõista teoreetilisel tasandil, sest neid kasutatakse kompleksemates olukordades, kus on mängus juba mitu alampuud*
+*Kahekordseid rotatasioone on raske mõista teoreetilisel tasandil, sest neid kasutatakse kompleksemates olukordades, kus on mängus juba mitu alampuud.*
 
 ### Splay puud 
 
@@ -38,7 +38,7 @@
 - Liimimine - Kui kustutamise tõttu on kahel sõlmel lubatust väiksem suurus, siis need pannakse kokku
 - Jagamine - Kui kustutamise tõttu on ühel sõlmel lubatust väiksem suurus, aga ühel sõlmel lubatud suurus, siis lubatud suurusega sõlm annab mingi koguse võtmeid teisele sõlmele
 
-*B-tree ei püüa säilitada traditsioonilist tasakaalus olekut ning ei ole ka binaar otsingupuu tüüp*
+*B-tree ei püüa säilitada traditsioonilist tasakaalus olekut ning ei ole ka binaar otsingupuu tüüp.*
 
 
 ## Nende puude jõudluse optimeermine erinevates rakendustes
