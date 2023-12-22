@@ -32,4 +32,4 @@
 
 *Splay puul pole eesmärk olla tasakaalus, vaid tuua peale sisestamist, kustutamist või otsismist teatud element tüveks. Näiteks, kui otsitavat elementi ei leita, siis puu viib kõige saranasema elemendi otsitavale elemendile puu tüveks.*
 
-###
+### B-tree
