@@ -59,13 +59,13 @@ def bfs (graaf, algus, solm):
                 jarjekord.append(i)
                 
     
-# Kui sõlm pole külastatute hulgas siis prindi see välja
+# Kui sõlme, kuhu me marsruuti otsime, pole külastatute hulgas siis prindi see välja
 
     if solm not in kylastatud:
          
         print(f"Tallinn-{solm} marsruuti pole olemas")
         
-# Kui sõlm on külastatute hulgas siis prindi see välja
+# Kui sõlme, kuhu me marsruuti otsime, on külastatute hulgas siis prindi see välja
 
     else:
         
