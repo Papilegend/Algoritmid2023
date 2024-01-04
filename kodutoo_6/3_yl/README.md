@@ -4,7 +4,7 @@
 
 ### Kirjeldus 
 
-Dijkstra on algoritm, mille abil saab leida graafis ühest sõlmest kõiki teistesse sõlmedesse kõige lühema tee. 
+Dijkstra on algoritm, mille abil saab leida graafis ühest sõlmest kõiki teistesse sõlmedesse kõige lühema tee. Algoritm liigub graafis kõige lühemat teed pidi, uuendades konstantselt andmetabelit, kuhu paneb kõige lühema tee algsõlmest kõikidesse teistesse sõlmedesse kirja. 
 
 ### Efektiivne ja mitteefektiivne
 
