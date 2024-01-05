@@ -8,7 +8,7 @@ Graafiteooria probleem, kus tuleb värvida kõik graafi tipud, nii et graafi kõ
 
 ### Olulisus arvutiteaduses
 
-Arvutiteaduses kasutatakse graafi värvimise probleemi väga paljudes praktilistes rakendustes, nagu näiteks ajaplaneerimis- ja kaardirakendustes. Samuti, kuna tänapäeval arvutiteaduses kuvatakse probleeme ja lahendamata ülesandeid graafidena, siis graafi väirvimise probleem suudab efektiivselt neid lahendada. 
+Arvutiteaduses kasutatakse graafi värvimise probleemi väga paljudes praktilistes rakendustes, nagu näiteks ajaplaneerimis- ja kaardirakendustes. Samuti, kuna tänapäeval arvutiteaduses kuvatakse probleeme ja lahendamata ülesandeid graafidena, siis graafi värvimise probleem suudab efektiivselt neid lahendada. 
 
 ### Ressursside jaotamine ja konfliktide lahendamine 
 
