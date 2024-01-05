@@ -8,11 +8,11 @@ Dijkstra on algoritm, mille abil saab leida graafis ühest sõlmest kõiki teist
 
 ### Efektiivne ja mitteefektiivne
 
-### Efektiivne
+#### Efektiivne
 
 Dijkstra algoritm on efektiivne, kui graafi servadel pole negatiivseid väärtusi, algsõlmeks on ainult üks sõlm ning graafil on vähem servi kui sõlmesid. 
 
-### Mitteefektiivne
+#### Mitteefektiivne
 
 Dijkstra algoritm on mitteefektiivne, kui graafi servadel on negatiivsed väärtused, graafil on rohkem servi kui sõlmesid ning algsõlmeks rohkem kui üks sõlm.
 
