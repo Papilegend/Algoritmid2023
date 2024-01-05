@@ -11,4 +11,4 @@ Kokkuvõtlikult on probleem selles, kas iga probleemi, mille lahendust on lihtne
 ### Probleemi lahendamise olulisus
 
 Probleemi lahendamine muudaks probleemide, mida nimetatakse praegu raskelt lahendatavaks, lahendamise lihtsamaks. Teiseks, aitaks see piirtleda probleeme, mis on praktiliselt lahendatavad, ja mis ei ole.
-Samuti tooks see kaasa arvutiteaduses suure arenguhüppe ning ka üleüldse teistes tehnoloogiavaldkondades, kus on palju vaja lahendada optmiseerimislähedasi probleeme.
+Samuti tooks see kaasa arvutiteaduses suure arenguhüppe ning ka teistes tehnoloogiavaldkondades, kus on palju vaja lahendada optmiseerimislähedasi probleeme.
