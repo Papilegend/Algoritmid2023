@@ -54,6 +54,12 @@ Double hashingu eelis ühekordse räsimise eest on see, et see võimdaldab vähe
 
 Rehasingut viiakse läbi, et suurendada räsitabeli suurust, kui see hakkab täis minema ning koormustegur muutub suureks. See vähendab koormustegurit.
 
+### Too näide reaalsest rakendusest, kus räsimist kasutatakse efektiivsuse parandamiseks
+
+Veebilehtede vahemälusse paigutamine. Kui kasutaja külastab sama veebilehte uuesti, siis vahemälu aitab laadida veebilehele salvestatud andmeid kiiremini nii, et ei peaks uuesti neid alla laadima. 
+
+Veebileht teeb külastatavast kasutajast räsiväärtuse, mis salvestab selle vahemällu võtmena. Kui külastav kasutaja külastab uuesti veebilehte, siis veebileht uurib seda räsitabelist, kas ta on varem veebilehte külastanud, ja kui on, siis võimaldab kasutajal kiiremat juurdepääsu salvestatud andmetele. 
+
 
 
 
