@@ -13,7 +13,7 @@ Tüvest vasakule jäävad elemendid on alati väiksemad kui tüvi ja tüvest par
 - Sõlm, millel on alati maksimaalselt kaks last ja unikaalne väärtus.
 - Vasak laps ja parem laps, kus vasak laps on alati väiksem kui parem laps.
 
-### Tasakaalustamata puude mõju BST tõhususele nign selle optimeerimine 
+### Tasakaalustamata puude mõju BST tõhususele ning selle optimeerimine 
 
 #### Mõju 
 
