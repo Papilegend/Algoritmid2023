@@ -19,6 +19,6 @@ Mõlemad on efektiivsuselt suhteliselt samal tasandil, kuid kui prioriteediks on
 #### Miinused
 
 - Keskmisest suurem mäluvajadus ja mälu ebajärjepidevus 
-- Kui on teatud indeksitel väga pikad linked listid, siis muutub algoritnm aeglaseks
+- Kui on teatud indeksitel väga pikad linked listid, siis muutub algoritm aeglaseks
   
  
