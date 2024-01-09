@@ -50,7 +50,9 @@ Double hashing on meetod põrgete lahendamiseks räsitabelis, kus kasutakse kaht
 
 Double hashingu eelis ühekordse räsimise eest on see, et see võimdaldab vähendada kokkupõrgete arvu ja leida kiiremini järgmine vaba pesa, kui tekib kollisioon. 
 
+### Miks viiakse hash tabelis läbi rehashingut ja milline on selle mõju koormustegurile?
 
+Rehasingut viiakse läbi, et suurendada räsitabeli suurust, kui see hakkab täis minema ning koormustegur muutub suureks. See vähendab koormustegurit.
 
 
 
