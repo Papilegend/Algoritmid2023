@@ -44,6 +44,15 @@ Jump search on otsingualgoritm, mis kombineerib sorteertiud massiivis hüppamist
 Peamiselt erineb see Binary Searchist selle poolest, et Jump Search hüppab järjendis edasi ja otsib nii otsitavat elementi, aga Binary Search jagab andmestiku pooleks ja kontrollib otsitavat elementi ning liigub võrdluse tulemuse järel vasakule või paremale 
 
 
+### Selgita double hashing kontseptsiooni ja too välja üks eelis võrreldes ühekordse räsimisega.
+
+Double hashing on meetod põrgete lahendamiseks räsitabelis, kus kasutakse kaht erinevat räsimisfunktsiooni, et leida järgmine vaba pesa andmestikus.
+
+Double hashingu eelis ühekordse räsimise eest on see, et see võimdaldab vähendada kokkupõrgete arvu ja leida kiiremini järgmine vaba pesa, kui tekib kollisioon. 
+
+
+
+
 
 
 
