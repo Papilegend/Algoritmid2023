@@ -61,8 +61,6 @@ sihtpunkt_sisestus = ttk.Entry(Raam, textvariable = sihtpunkt_sisend, width = 10
 
 olek = tk.StringVar()
 olek2 = tk.StringVar()
-olek.set("kaka")
-olek2.set("toka")
 tee_kuvar = ttk.Label(aken, textvariable = olek)
 kulu_kuvar = ttk.Label(aken, textvariable = olek2)
 
